@@ -5,7 +5,7 @@ LC.○○（○○はゲートの名前）で選べるが代入値はブール�
 
 一覧
 
-    System.out.println(LC.OR(false,true)+"-OR");//OR..ORゲート
+   		System.out.println(LC.OR(false,true)+"-OR");//OR..ORゲート
 		System.out.println(LC.NOT(false)+"-NOT");//NOT..NOTゲート
 		System.out.println(LC.AND(true, false)+"-AND");//AND..ANDゲート
 		System.out.println(LC.NAND(true, false)+"-NAND");//NAND..NANDゲート
